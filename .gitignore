@@ -1,0 +1,23 @@
+# General
+.DS_Store
+*.log
+.env
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs
+*.njsproj
+*.sln
+*.sw?
+
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+pnpm-debug.log*
+
+# System Files
+Thumbs.db
+
