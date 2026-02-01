@@ -1,5 +1,5 @@
 # Project Overview
-Dotfiles management project for macOS development environment using Nix and Home-Manager
+This repository explores implementations and best practices for login authentication and session management.
 
 # Setup and Basic Usage
 Setup instructions and basic usage are documented in [README.md](./README.md).

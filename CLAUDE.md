@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-A Next.js frontend template for 2026.
+This repository explores implementations and best practices for login authentication and session management.
 
 ## Rules and Skills Structure
 
